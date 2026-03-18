@@ -174,6 +174,6 @@ Distribueras under **MIT-licensen**. Fri för personligt och kommersiellt bruk.
 
 <p align="center">
   <b>Utvecklad av</b><br>
-  <img src="frontend/src/assets/alx_logo.png" width="120" alt="Alexander Nilsson Logo"><br>  
+  <img src="src/main/resources/alx_logo.png" width="120" alt="Alexander Nilsson Logo"><br>  
   Copyright © 2026 Alexander Nilsson
 </p>
